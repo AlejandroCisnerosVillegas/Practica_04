@@ -16,7 +16,7 @@ Se implementó una barra de búsqueda que permite filtrar usuarios por nombre. L
 
 Se utilizó CSS para diseñar una interfaz limpia y profesional, incluyendo tablas estilizadas para la presentación de datos, botones con efectos de hover y formularios modales para la inserción y modificación de usuarios.
 
-**Consulta la versión preliminar de la practica aquí:** [https://practica_04.com](https://alejandrovillegas.net/projects/practice-04/index.php)
+**Consulta la versión preliminar de la practica aquí:** [https://practica_04.com](https://www.alejandrovillegas.dev/projects/practice-04/index.php)
 
 # 📌 Información de la Practica
 
@@ -28,7 +28,7 @@ Esta practica ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 21 de abril de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración
 
